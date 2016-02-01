@@ -2,7 +2,7 @@
 
 
 
-Here, I have created the run_analysis.R script to: 
+# Here, I have created the run_analysis.R script to: 
 
 1. Read into R the data that was downloaded for the course project.
 
@@ -20,7 +20,7 @@ Here, I have created the run_analysis.R script to:
 
 
 
-The files included in this submission:
+# The files included in this submission:
 
 1. run_analysis.R — Script for processing data and outputting tidy dataset.
 
@@ -32,7 +32,7 @@ The files included in this submission:
 
 
 
-Instructions for producing the tidy dataset using my script:
+# Instructions for producing the tidy dataset using my script:
 
 1. First download the data for the course project from here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
