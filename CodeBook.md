@@ -1,6 +1,6 @@
 #This codebook describes the variables in the tidy dataset and the analysis steps for producing the tidy dataset.
 
-Continuous Variables (66):
+# Continuous Variables (66):
 
 1. time.body.accelerometer.mean.x: The mean body acceleration signal in the time domain along the x axis, as described in the downloaded dataset. Units: gravity (g) where 1g = 9.8m/s^2.
 
@@ -137,7 +137,7 @@ Continuous Variables (66):
 
 
 
-Categorical Variables (2):
+# Categorical Variables (2):
 
 1. subject.id: The number id that identifies the subject performing the test and training activities.
 
@@ -146,7 +146,7 @@ Categorical Variables (2):
 
 
 
-The analysis procedures:
+# The analysis procedures:
 
 1. First the script sets the directory of where files are located.
 
@@ -172,6 +172,6 @@ The analysis procedures:
 
 
 
-Study Design:
+# Study Design:
 
 Information regarding the experimental study design can be found in the README.txt file that came with the downloaded datasets.
